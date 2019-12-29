@@ -5,6 +5,7 @@ Configuration
 ~~~~~~~~~~~~~
 
 .. code:: python
+
     TWEETER = {
         "consumer_key": "",
         "consumer_secret": "",
@@ -16,6 +17,7 @@ Configuration
 Use
 ~~~~~~~~~~~~~
 .. code:: python
+
     from tweeter.core import Tweeter
 
     TWEETER = {
